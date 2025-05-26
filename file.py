@@ -5,5 +5,5 @@ print("This repo is pushed to git using command line.")
 
 print("We will create a power function in this branch. This is a feature_power branch")
 print("We will create a power function in feature_power branch")
-
+print("This is a conflict.")
 
