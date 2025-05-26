@@ -7,4 +7,5 @@ print("We will create a power function in this branch. This is a feature_power b
 print("We will create a power function in feature_power branch")
 print("This is edited in feature_power.")
 
+print("This is a conflict.")
 
